@@ -11,7 +11,12 @@ The pipeline is built using Apache Airflow for orchestration, PostgreSQL as the 
 
  Reddit API: Source of the data.  
  Apache Airflow : Orchestrates the ETL process.  
-  
+ PostgreSQL: Temporary storage and metadata management.  
+ Amazon S3: Raw and transformes data storage.  
+ AWS Glue: ETL jobs. 
+ Amazon Athena: SQL-based data transformation.   
+ Amazon Redshift: Data warehousing and analytics.
+ 
 
  
 
