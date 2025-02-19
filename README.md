@@ -9,13 +9,10 @@ The pipeline is built using Apache Airflow for orchestration, PostgreSQL as the 
  5. 
   ![DEpipeline](https://github.com/user-attachments/assets/219a8a4c-4385-4465-8704-901611c04131)
 
- Reddit API: Source of the data.
- Apache Airflow : Orchestrates the ETL process and manages task distribution.
- PostgreSQL: Temporary storage and metadata management.
- Amazon S3: Raw and transformes data storage.
- AWS Glue: ETL jobs.
- Amazon Athena: SQL-based data transformation.
- Amazon Redshift: Data warehousing and analytics.
+ Reddit API: Source of the data.  
+ Apache Airflow : Orchestrates the ETL process.  
+  
+
  
 
 
