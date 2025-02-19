@@ -1,0 +1,33 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1irdcie,"Welcome to data engineering, Elon!",1329,280,madredditscientist,2025-02-17 06:15:23,https://i.redd.it/ulxqcj516nje1.png,False,False,False,False
+1irmd5j,Roast my first pipeline diagram,128,37,Firelord710,2025-02-17 15:26:55,https://i.redd.it/xvun83xiwpje1.jpeg,False,False,False,False
+1ir7a9g,Using Dagster to learn transferable ETL techniques,22,7,Think_Rub2459,2025-02-17 00:39:44,https://www.reddit.com/r/dataengineering/comments/1ir7a9g/using_dagster_to_learn_transferable_etl_techniques/,False,False,False,False
+1irqhbb,"If DP-203 is already dying and fabrics is being pushed onto everyone, whats your opinion what Cloud tech I should learn",21,17,Secure_Sir_1178,2025-02-17 18:13:28,https://www.reddit.com/r/dataengineering/comments/1irqhbb/if_dp203_is_already_dying_and_fabrics_is_being/,False,False,False,False
+1irhxpt,"My company offered me a position as a Data Arquitect, what I have to learn?",16,34,Irachar,2025-02-17 11:39:14,https://www.reddit.com/r/dataengineering/comments/1irhxpt/my_company_offered_me_a_position_as_a_data/,False,False,False,False
+1irq57l,How do you keep motivated to keep learning?,13,16,DataGhost404,2025-02-17 18:00:50,https://www.reddit.com/r/dataengineering/comments/1irq57l/how_do_you_keep_motivated_to_keep_learning/,False,False,False,False
+1irmv76,I am on DE Academy,11,3,Substantial_Fix_183,2025-02-17 15:48:26,https://www.reddit.com/r/dataengineering/comments/1irmv76/i_am_on_de_academy/,False,False,False,False
+1irnrg3,Generating vector embedding in ETL pipelines,9,0,Curious-Mountain-702,2025-02-17 16:25:42,https://i.redd.it/6fzmgnh07qje1.png,False,False,False,False
+1irt9h6,Best ETL tools for extracting data from ERP.,6,14,Correct_Leadership63,2025-02-17 20:02:23,https://www.reddit.com/r/dataengineering/comments/1irt9h6/best_etl_tools_for_extracting_data_from_erp/,False,False,False,False
+1irb168,How to Switch from trainer to data engineer?,5,5,VictoryOk3604,2025-02-17 03:58:07,https://www.reddit.com/r/dataengineering/comments/1irb168/how_to_switch_from_trainer_to_data_engineer/,False,False,False,False
+1ircakv,Concurrent data loading into one table in snowflake,4,4,JuggernautDue2510,2025-02-17 05:10:43,https://www.reddit.com/r/dataengineering/comments/1ircakv/concurrent_data_loading_into_one_table_in/,False,False,False,False
+1ir79aj,Calculating retention rate summaries,5,7,adgjl12,2025-02-17 00:38:16,https://www.reddit.com/r/dataengineering/comments/1ir79aj/calculating_retention_rate_summaries/,False,False,False,False
+1irvxi4,YAML-Only Orchestration - Am I An Idiot?,3,2,Froozieee,2025-02-17 21:49:29,https://www.reddit.com/r/dataengineering/comments/1irvxi4/yamlonly_orchestration_am_i_an_idiot/,False,False,False,False
+1irqtsu,Incremental update,3,2,Shaxa27,2025-02-17 18:26:45,https://www.reddit.com/r/dataengineering/comments/1irqtsu/incremental_update/,False,False,False,False
+1irno28,What are new grads with data engineering internship experience supposed to apply to?,3,6,crunchysliceofbread,2025-02-17 16:21:47,https://www.reddit.com/r/dataengineering/comments/1irno28/what_are_new_grads_with_data_engineering/,False,False,False,False
+1irm5j1,Deciding on a Data Warehouse Solution,3,4,daugwilson,2025-02-17 15:17:42,https://www.reddit.com/r/dataengineering/comments/1irm5j1/deciding_on_a_data_warehouse_solution/,False,False,False,False
+1irwqns,Opportunity to move from business to engineering at my company,3,3,Teddy_Raptor,2025-02-17 22:22:38,https://www.reddit.com/r/dataengineering/comments/1irwqns/opportunity_to_move_from_business_to_engineering/,False,False,False,False
+1irnzpk,Data model/semantic layer tooling,2,1,Lower-Promotion930,2025-02-17 16:35:05,https://www.reddit.com/r/dataengineering/comments/1irnzpk/data_modelsemantic_layer_tooling/,False,False,False,False
+1irmb6g,Help in ETL tool selection,2,0,Lower-Celebration-31,2025-02-17 15:24:31,https://www.reddit.com/r/dataengineering/comments/1irmb6g/help_in_etl_tool_selection/,False,False,False,False
+1irgca0,[DQ] soda core: what's its use?,2,1,Think-Reflection500,2025-02-17 09:48:02,https://www.reddit.com/r/dataengineering/comments/1irgca0/dq_soda_core_whats_its_use/,False,False,False,False
+1irx75t,Artificial Intelligence-Leveraged Leadership to Resolve Resistance to Change: A Way Toward Second-Era Contemporary Businesses,2,0,Anouar-Hallioui,2025-02-17 22:41:58,https://www.researchgate.net/publication/388821561,False,False,False,False
+1irx4s9,Anyone using a tool to extract and load data to SAP?,3,6,Arm1end,2025-02-17 22:39:12,https://www.reddit.com/r/dataengineering/comments/1irx4s9/anyone_using_a_tool_to_extract_and_load_data_to/,False,False,False,False
+1irrbtl,Advice - moved from DE to solutions,1,0,dudeitsandy,2025-02-17 18:46:26,https://www.reddit.com/r/dataengineering/comments/1irrbtl/advice_moved_from_de_to_solutions/,False,False,False,False
+1irogki,Struggling to Navigate Cloud & Data Engineering—Seeking Guidance,1,2,Extreme-Road5537,2025-02-17 16:54:16,https://www.reddit.com/r/dataengineering/comments/1irogki/struggling_to_navigate_cloud_data/,False,False,False,False
+1irf889,Need some guidance.,1,3,nachnachbewdabankar,2025-02-17 08:27:32,https://www.reddit.com/r/dataengineering/comments/1irf889/need_some_guidance/,False,False,False,False
+1iruzdy,help chosing DB / warehouse for customer-facing analytics.,1,1,rawman650,2025-02-17 21:11:12,https://www.reddit.com/r/dataengineering/comments/1iruzdy/help_chosing_db_warehouse_for_customerfacing/,False,False,False,False
+1irh9w4,Using Data Science and AI to Find Colorado Springs' Best Restaurants,0,0,FoxInTheRedBox,2025-02-17 10:55:06,https://mattsayar.com/where-are-the-best-restaurants-in-my-city-a-statistical-analysis/,False,False,False,False
+1irfdbk,Cognizant walkin drive,0,1,Alternative_Way_9046,2025-02-17 08:37:48,https://www.reddit.com/r/dataengineering/comments/1irfdbk/cognizant_walkin_drive/,False,False,False,False
+1ir87e5,Fact and Dims,0,6,Fine-Current-7691,2025-02-17 01:25:45,https://www.reddit.com/r/dataengineering/comments/1ir87e5/fact_and_dims/,False,False,False,False
+1ircsr5,Definitive Leetcode Prep Guide Anyone?,1,1,Apprehensive_Toe9057,2025-02-17 05:41:42,https://www.reddit.com/r/dataengineering/comments/1ircsr5/definitive_leetcode_prep_guide_anyone/,False,False,False,False
+1irurv1,I feel like DE market in the US is dead,0,19,rudboi12,2025-02-17 21:02:53,https://www.reddit.com/r/dataengineering/comments/1irurv1/i_feel_like_de_market_in_the_us_is_dead/,False,False,False,False
+1irnol1,Help a Girl Out- Would You Find this Tool Useful?,0,6,Shot-Fly-6980,2025-02-17 16:22:23,https://www.reddit.com/r/dataengineering/comments/1irnol1/help_a_girl_out_would_you_find_this_tool_useful/,False,False,False,False
