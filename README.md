@@ -18,7 +18,7 @@ The pipeline is built using Apache Airflow for orchestration, PostgreSQL as the 
  Amazon Redshift: Data warehousing and analytics.  
 
  ![Screenshot 2025-02-19 140100](https://github.com/user-attachments/assets/9f1d253a-9c20-4086-877a-4122c295d8b5)  
- ![Screenshot 2025-02-19 140303](https://github.com/user-attachments/assets/7daf68c1-66c6-45b2-8828-d2c634f758a0)  
+ ![Screenshot 2025-02-19 140303](https://github.com/user-attachments/assets/9cb46b34-5281-4c3e-9416-61fbba915744)
  ![Screenshot 2025-02-19 140439](https://github.com/user-attachments/assets/3a74eb04-4429-497f-8274-9b08782daecb)
 
 
